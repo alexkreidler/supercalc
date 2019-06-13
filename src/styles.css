@@ -1,0 +1,11 @@
+.headings {
+  text-align: center;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+.App > div {
+  padding: 0.3rem 1rem;
+}
